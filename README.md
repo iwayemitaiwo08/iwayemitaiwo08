@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iwayemitaiwo08
+- 👋 Hi, I’m iwayemitaiwo
 - 👀 I’m interested in ... a job
 - 🌱 I’m currently learning ... NODEJS
 - 💞️ I’m looking to collaborate on ... EXTENSIVE DESIGN
