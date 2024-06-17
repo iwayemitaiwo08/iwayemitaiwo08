@@ -1,6 +1,6 @@
 - 👋 Hi, I’m iwayemitaiwo
 - 👀 I’m interested in ... a job
-- 🌱 I’m currently learning ... NODEJS
+- 🌱 I’m currently learning ... Vue.Js
 - 💞️ I’m looking to collaborate on ... EXTENSIVE DESIGN
 - 📫 How to reach me ... iwayemitaiwo.pages.dev
 - 😄 Pronouns: ...HE/HIM
