@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... a job
 - 🌱 I’m currently learning ... Vue.Js
 - 💞️ I’m looking to collaborate on ... EXTENSIVE DESIGN
-- 📫 How to reach me ... iwayemitaiwo.pages.dev
+- 📫 How to reach me ... facebook.com/iwayemitaiwo08
 - 😄 Pronouns: ...HE/HIM
 - ⚡ Fun fact: ...I love to code and play Games
 
