@@ -9,7 +9,7 @@ MongoDB Express.js React Node.js Go TypeScript C++ Solidity JavaScript HTML5 CSS
 
 
 📬 Contact Me
-📧 email:iwayemitaiwo08@gmail.com
+iwayemitaiwo08@gmail.com
 <!---
 iwayemitaiwo08/iwayemitaiwo08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
