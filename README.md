@@ -1,7 +1,6 @@
-- 👋 Hi, I’m iwayemitaiwo
-- 👀 I’m interested in ... a job
+- 👋 Hi, I’m iwayemi taiwo a 15 Year Old Frontend Developer From Nigeria
+- 👀 I’m passionate about coding,exploring new technologies
 - 🌱 I’m currently learning ... Vue.Js
-- 💞️ I’m looking to collaborate on ... EXTENSIVE DESIGN
 - 📫 How to reach me ... facebook.com/iwayemitaiwo08
 - 😄 Pronouns: ...HE/HIM
 - ⚡ Fun fact: ...I love to code and play Games
