@@ -5,7 +5,7 @@
 - 😄 Pronouns: ...HE/HIM
 - ⚡ Fun fact: ...I love to code and play Games
 🛠️ Technology i have used
-MongoDB Express.js React Node.js Go TypeScript C++ Solidity JavaScript HTML5 CSS3 Tailwind CSS
+ TypeScript nuxt.js Vue.js JavaScript HTML5 CSS3 Tailwind CSS
 
 
 📬 Contact Me
